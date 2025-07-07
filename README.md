@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flopesdiego12%2FHello-World&psig=AOvVaw3BP0VJPW7FSoR-As2fw1vD&ust=1751976140286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqoO_Zqo4DFQAAAAAdAAAAABAM" alt="Long Banner" width="1000" style="border-radius: 10px;" />
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flopesdiego12%2FHello-World&psig=AOvVaw3BP0VJPW7FSoR-As2fw1vD&ust=1751976140286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqoO_Zqo4DFQAAAAAdAAAAABAM](https://github.com/user-attachments/assets/5443a24d-691a-49e2-b511-4bee471b57be)" alt="Long Banner" width="1000" style="border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
