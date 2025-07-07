@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src=![Image](https://github.com/user-attachments/assets/5443a24d-691a-49e2-b511-4bee471b57be)" width="1000" style="border-radius: 10px;" />
+  <img src=![Image](![Image](https://github.com/user-attachments/assets/c5cd1e6f-7e64-445c-a016-2f5453a627f9))" width="1000" style="border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
