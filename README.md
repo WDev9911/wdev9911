@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/E5f6OAr.png" alt="Long Banner" width="1000" style="border-radius: 10px;" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flopesdiego12%2FHello-World&psig=AOvVaw3BP0VJPW7FSoR-As2fw1vD&ust=1751976140286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqoO_Zqo4DFQAAAAAdAAAAABAM" alt="Long Banner" width="1000" style="border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
@@ -26,7 +26,9 @@
 ![MassTransit](https://img.shields.io/badge/-MassTransit-1D3557?style=flat&logo=nuget&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -36,24 +38,26 @@
 ### 🛒 Shop API
 > A simple eCommerce backend built with ASP.NET Core Web API  
 > ✅ JWT Authentication, product/order/cart management  
-> ✅ 3-layer architecture, Dockerized, Redis for caching  
-> ✅ Swagger UI, PostgreSQL, deployed on **AWS EC2**  
+> ✅ 3-layer architecture, Redis caching, Swagger API  
+> ✅ PostgreSQL DB, containerized with Docker  
+> ✅ Deployed to **Azure App Service** (or **AWS EC2**)  
 🔗 [View Repository](https://github.com/hieudev/shop-api)
 
 ---
 
 ### 📚 BookStore API
 > Book management RESTful API with user & admin roles  
-> ✅ ASP.NET Core, EF Core, PostgreSQL, Repository Pattern  
-> ✅ Hosted on Docker, documented with Swagger  
+> ✅ Built with ASP.NET Core, EF Core, PostgreSQL  
+> ✅ Documented with Swagger & tested using **Postman collections**  
+> ✅ Deployment-ready with Docker & Azure configuration  
 🔗 [View Repository](https://github.com/hieudev/bookstore-api)
 
 ---
 
 ### 📦 Order Service (Microservice Example)
-> Order processing microservice with event-driven architecture  
-> ✅ Uses **MassTransit + RabbitMQ** for async messaging  
-> ✅ Built with .NET 8, Clean Architecture, CQRS  
+> Order processing microservice using event-driven architecture  
+> ✅ **MassTransit + RabbitMQ** for asynchronous messaging  
+> ✅ CQRS Pattern + Clean Architecture with .NET 8  
 🔗 [Coming Soon]
 
 ---
@@ -72,18 +76,7 @@
 
 ## 🎯 Career Goals
 
-- 🤝 Seeking backend internship opportunities (on-site in HCMC or remote)  
-- 🌱 Currently exploring Microservices, CQRS, MassTransit, and AWS deployment  
-- 💪 Improving software architecture, Git flow, and system scalability
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: hieudev@example.com  
-- 💼 LinkedIn: [linkedin.com/in/hieudev](https://linkedin.com/in/hieudev)  
-- 🐙 GitHub: [github.com/hieudev](https://github.com/hieudev)
-
----
-
-> 💬 *“I believe that persistence and a clear mindset are key to becoming a professional backend developer.”*
+- 🤝 Looking for backend internship opportunities (on-site in HCMC or remote)  
+- 🌱 Currently improving Microservices architecture with Redis, RabbitMQ, and MassTransit  
+- ☁️ Exploring deployment with Docker, **Azure**, and **AWS**  
+- 🧪 Creating scalable APIs, documen
