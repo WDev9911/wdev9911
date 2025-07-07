@@ -31,36 +31,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 Shop API
-> A simple eCommerce backend built with ASP.NET Core Web API  
-> ✅ JWT Authentication, product/order/cart management  
-> ✅ 3-layer architecture, Redis caching, Swagger API  
-> ✅ PostgreSQL DB, containerized with Docker  
-> ✅ Deployed to **Azure App Service** (or **AWS EC2**)  
-🔗 [View Repository](https://github.com/hieudev/shop-api)
-
----
-
-### 📚 BookStore API
-> Book management RESTful API with user & admin roles  
-> ✅ Built with ASP.NET Core, EF Core, PostgreSQL  
-> ✅ Documented with Swagger & tested using **Postman collections**  
-> ✅ Deployment-ready with Docker & Azure configuration  
-🔗 [View Repository](https://github.com/hieudev/bookstore-api)
-
----
-
-### 📦 Order Service (Microservice Example)
-> Order processing microservice using event-driven architecture  
-> ✅ **MassTransit + RabbitMQ** for asynchronous messaging  
-> ✅ CQRS Pattern + Clean Architecture with .NET 8  
-🔗 [Coming Soon]
-
----
 
 ## 📈 GitHub Stats
 
