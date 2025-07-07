@@ -35,11 +35,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieudev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieudev&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieudev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,11 +50,7 @@
 ---
 
 ## 📫 Get in Touch
-
-- 📧 Email: hieudev@example.com  
-- 💼 LinkedIn: [linkedin.com/in/hieudev](https://linkedin.com/in/hieudev)  
-- 🐙 GitHub: [github.com/hieudev](https://github.com/hieudev)
-
+- 📧 Email: thanhlong12092004@gmail.com   
 ---
 
 > 💬 *“I believe that persistence and a clear mindset are key to becoming a professional backend developer.”*
