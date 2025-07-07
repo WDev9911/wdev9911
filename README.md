@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flopesdiego12%2FHello-World&psig=AOvVaw3BP0VJPW7FSoR-As2fw1vD&ust=1751976140286000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqoO_Zqo4DFQAAAAAdAAAAABAM](https://github.com/user-attachments/assets/5443a24d-691a-49e2-b511-4bee471b57be)" alt="Long Banner" width="1000" style="border-radius: 10px;" />
+  <img src="https://i.imgur.com/E5f6OAr.png" alt="Long Banner" width="1000" style="border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
@@ -79,4 +79,16 @@
 - 🤝 Looking for backend internship opportunities (on-site in HCMC or remote)  
 - 🌱 Currently improving Microservices architecture with Redis, RabbitMQ, and MassTransit  
 - ☁️ Exploring deployment with Docker, **Azure**, and **AWS**  
-- 🧪 Creating scalable APIs, documen
+- 🧪 Creating scalable APIs, documenting with Swagger & testing via **Postman**
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: hieudev@example.com  
+- 💼 LinkedIn: [linkedin.com/in/hieudev](https://linkedin.com/in/hieudev)  
+- 🐙 GitHub: [github.com/hieudev](https://github.com/hieudev)
+
+---
+
+> 💬 *“I believe that persistence and a clear mindset are key to becoming a professional backend developer.”*
