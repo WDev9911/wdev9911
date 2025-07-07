@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hi, I'm Long</h1>
+<h1 align="center">👋 Hello World, I'm Long</h1>
 <p align="center">
   🎓 3rd-year student at <strong>FPT University, Ho Chi Minh City</strong>  
   <br/>
