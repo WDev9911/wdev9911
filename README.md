@@ -8,7 +8,7 @@
 <p align="center">
   🎓 4rd-year student at <strong>FPT University, Ho Chi Minh City</strong>  
   <br/>
-  📊 Current GPA: <strong>7.0 / 10.0</strong>  
+  📊 Current GPA: <strong>3.0 / 4.0</strong>  
   <br/>
   💻 Backend Developer - ASP.NET Core Web API & Microservices
 </p>
