@@ -1,5 +1,3 @@
-# Long
-
 Backend Developer  
 Ho Chi Minh City, Vietnam  
 
@@ -9,10 +7,13 @@ I am a final-year university student specializing in backend development. My pri
 
 ## Technical Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=dotnet,redis,aws,postgres,azure,docker,rabbitmq,kafka,postman)
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,azure,aws,docker,linux,rabbitmq,kafka,postman)
 
 ### Backend
 - ASP.NET Core / .NET
+- Spring Boot
+- Java
+- C#
 - RESTful API Development
 - Clean Architecture
 - Microservices Architecture
@@ -35,8 +36,9 @@ I am a final-year university student specializing in backend development. My pri
 - RabbitMQ
 - Apache Kafka
 
-### DevOps & Containers
+### DevOps & Infrastructure
 - Docker
+- Linux
 
 ### API Development Tools
 - Postman
@@ -66,6 +68,6 @@ I am a final-year university student specializing in backend development. My pri
 
 ## Contact
 
-Location: Ho Chi Minh City, Vietnam
+Location: Ho Chi Minh City, Vietnam  
 
 Open to collaboration on backend projects and learning opportunities.
