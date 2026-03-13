@@ -11,4 +11,4 @@ Hi, I'm Long 🇻🇳
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDev9911E&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDev9911&layout=compact&theme=tokyonight)
