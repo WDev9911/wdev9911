@@ -1,5 +1,5 @@
 Backend Developer  
-Software Engineer (.NET) 🇻🇳 Ho Chi Minh City, Vietnam
+Software Engineer (.NET) :flag_vietnam: Ho Chi Minh City, Vietnam
 
 ---
 
