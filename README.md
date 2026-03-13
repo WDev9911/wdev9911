@@ -1,10 +1,3 @@
-# Long
-
-Hi, I'm Long 🇻🇳  
-.NET Software Engineer based in Ho Chi Minh City, Vietnam.
-
----
-
 ## Technology Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,dynamodb,aws,azure,docker,linux,rabbitmq,kafka,postman)
@@ -13,6 +6,8 @@ Hi, I'm Long 🇻🇳
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=longdev&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WDev9911&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=longdev&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
