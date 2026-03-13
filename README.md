@@ -1,82 +1,71 @@
-# 👋 Hi, I'm Long
+# Long
 
-🚀 Backend Developer | Final-Year Student | Ho Chi Minh City, Vietnam  
+Backend Developer  
+Ho Chi Minh City, Vietnam  
 
-I am a final-year university student specializing in **Backend Development** with a strong interest in building **scalable, reliable, and cloud-ready systems**.  
-My main focus is designing and developing **high-quality APIs, microservices, and distributed systems** using modern backend technologies.
-
-I enjoy working with **.NET ecosystem, databases, cloud infrastructure, and message-driven architectures** to build production-ready backend services.
+I am a final-year university student specializing in backend development. My primary focus is building scalable APIs and backend systems using modern technologies and cloud infrastructure. I am particularly interested in system architecture, microservices, distributed systems, and high-performance backend services.
 
 ---
 
-# 🧑‍💻 About Me
+## Technical Stack
 
-- 🎓 Final-year university student
-- 📍 Based in **Ho Chi Minh City, Vietnam**
-- 💻 Backend-focused developer
-- ⚙️ Passionate about **system design, microservices, and cloud infrastructure**
-- 📚 Continuously learning modern backend technologies and best practices
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,redis,aws,postgres,azure,docker,rabbitmq,kafka,postman)
 
----
-
-# ⚙️ Technical Skills
-
-## Backend Development
-- **.NET / ASP.NET Core**
-- RESTful API Design
+### Backend
+- ASP.NET Core / .NET
+- RESTful API Development
 - Clean Architecture
 - Microservices Architecture
+- Event-driven architecture
 
-## Databases
-- **PostgreSQL**
-- **SQL Server**
-- Database Design & Optimization
+### Databases
+- PostgreSQL
+- SQL Server
+- Database schema design
+- Query optimization
 
-## Caching
-- **Redis**
+### Caching
+- Redis
 
-## Cloud & DevOps
-- **AWS**
-- **Azure**
-- **Docker**
+### Cloud Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
 
-## Messaging & Streaming
-- **RabbitMQ**
-- **Apache Kafka**
+### Messaging Systems
+- RabbitMQ
+- Apache Kafka
 
-## API Development Tools
-- **Postman**
-- **Swagger / OpenAPI**
+### DevOps & Containers
+- Docker
+
+### API Development Tools
+- Postman
+- Swagger / OpenAPI
 
 ---
 
-# 🧠 Areas of Interest
+## Areas of Interest
 
-I am particularly interested in:
-
-- Backend System Architecture
-- Microservices Design
+- Backend System Design
 - Distributed Systems
-- Cloud Infrastructure
+- Microservices Architecture
+- Cloud-native Applications
+- Event-driven Systems
 - High-performance API development
-- Event-driven architectures
 
 ---
 
-# 📈 Currently Learning
+## Current Focus
 
-- Advanced **Microservices Architecture**
-- **System Design for scalable systems**
-- **Cloud-native backend development**
-
----
-
-# 📫 Connect With Me
-
-📍 Ho Chi Minh City, Vietnam  
-
-Feel free to connect or collaborate on backend projects.
+- Designing scalable backend architectures
+- Improving system reliability and performance
+- Learning advanced microservices patterns
+- Cloud-native backend development
 
 ---
 
-⭐ *Always learning, always building.*
+## Contact
+
+Location: Ho Chi Minh City, Vietnam
+
+Open to collaboration on backend projects and learning opportunities.
