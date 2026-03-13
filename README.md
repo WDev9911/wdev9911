@@ -1,5 +1,3 @@
-Hi, I'm Long 🇻🇳 
-.NET Software Engineer based in Ho Chi Minh City, Vietnam.
 
 ---
 
