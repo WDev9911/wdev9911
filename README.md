@@ -1,13 +1,11 @@
 Backend Developer  
-Ho Chi Minh City, Vietnam  
-
-I am a final-year university student specializing in backend development. My primary focus is building scalable APIs and backend systems using modern technologies and cloud infrastructure. I am particularly interested in system architecture, microservices, distributed systems, and high-performance backend services.
+Software Engineer (.NET) 🇻🇳 Ho Chi Minh City, Vietnam
 
 ---
 
 ## Technical Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,azure,aws,docker,linux,rabbitmq,kafka,postman)
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,aws,azure,docker,linux,rabbitmq,kafka,postman,dynamodb)
 
 ### Backend
 - ASP.NET Core / .NET
@@ -22,6 +20,7 @@ I am a final-year university student specializing in backend development. My pri
 ### Databases
 - PostgreSQL
 - SQL Server
+- DynamoDB
 - Database schema design
 - Query optimization
 
