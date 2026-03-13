@@ -1,6 +1,3 @@
-
----
-
 ## Technology Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,dynamodb,aws,azure,docker,linux,rabbitmq,kafka,postman)
