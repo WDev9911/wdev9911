@@ -1,7 +1,14 @@
-## GitHub Statistics
+Hi, I'm Long 🇻🇳  
+.NET Software Engineer based in Ho Chi Minh City, Vietnam.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WDev9911&show_icons=true&count_private=true&include_all_commits=true)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WDev9911)
+## Technology Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WDev9911&layout=compact)
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,java,spring,redis,postgres,dynamodb,aws,azure,docker,linux,rabbitmq,kafka,postman)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
